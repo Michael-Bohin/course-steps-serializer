@@ -1,0 +1,21 @@
+pretest;Kvíz pro videa T1-T3;120;5;cs;2;22;1;23;1
+vid;T1 Násobení s 1 neznámou;104;https://youtu.be/kbv2p7egFJg
+vid;T2 Obecný vzoreček násobení s 1 neznámou;94;https://youtu.be/1UuNumh87KA
+exe;T2 Příklad;60;cs;22;1
+vid;T3 Násobení 2 a více neznámých;75;https://youtu.be/YUTWaj7KqXw
+exe;T3 Příklad;60;cs;23;1
+
+pretest;Kvíz pro videa T4, T5;120;4;cs;2;24;1;25;1
+vid;T4 Sčítání a odčítání jedné neznámé;159;https://youtu.be/7e0L5HyD9YU
+exe;T4 Příklad;60;cs;24;1
+vid;T5 Sčítání a odčítání více neznámých;138;https://youtu.be/DeTt918shpw
+exe;T5 Příklad;60;cs;25;1
+
+vid;P1 Vytknutí;68;https://youtu.be/5xLi2wc7VHs
+exe;P1 Příklad;60;cs;26;1
+
+vid;P1 Mocnění závorky;82;https://youtu.be/TVXF7r9kpfI
+exe;P1 Příklad;60;cs;27;1
+
+vid;P1 Zjednodušení výrazu;214;https://youtu.be/n02tfVBgGlg;askForFeedback
+exe;P1 Příklad;60;cs;28;1

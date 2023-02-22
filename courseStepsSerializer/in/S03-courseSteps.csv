@@ -1,0 +1,44 @@
+pretest;Kvíz pro videa T01-T04;300;7;cs;3;7;1;8;1;10;1
+vid;T01 Zlomek;215;https://youtu.be/jf4JCv3OVPI
+vid;T02 Rozšíření zlomku vhodným tvarem jedničky;151;https://youtu.be/ZekBTZSRgAE
+exe;T02 Příklad;240;cs;8;1
+vid;T03 Základní tvar zlomku;264;https://youtu.be/VbRny7H2yGM
+exe;T03 Příklad;240;cs;7;1
+vid;T04 Krácení zlomku dělením;456;https://youtu.be/G1q1JGocsy8;askForFeedback
+exe;T04 Příklad;240;cs;10;1
+
+pretest;Kvíz pro videa T05-T09;480;9;cs;5;11;1;12;1;13;2;14;2;10;1
+vid;T05 Prvočísla;247;https://youtu.be/XJBkIGVqsEM
+vid;T06 Prvočíselný rozklad;441;https://youtu.be/mKLgJC-BVMw
+exe;T06 Příklad;120;cs;11;1;12;1
+vid;T07 NSD největší společný dělitel;277;https://youtu.be/da9bKDM6Ock
+exe;T07 Příklad;120;cs;13;2
+vid;T08 nsn nejmenší společný násobek;201;https://youtu.be/bWcqSMqH3sE
+exe;T08 Příklad;120;cs;14;2
+vid;T09 Krácení zlomku prvočíselným rozkladem;221;https://youtu.be/E7kN8DB9pW8;askForFeedback
+exe;T09 Příklad;120;cs;10;1
+
+pretest;Kvíz pro videa T10-T13;480;8;cs;7;15;1;16;1;17;1;18;1;19;1;20;1;21;1
+vid;T10 Sčítání a odčítání zlomků se stejným jmenovatelem;156;https://youtu.be/1NoCx7t97xU
+exe;T10 Příklad;120;cs;15;1;16;1
+vid;T11 Sčítání a odčítání zlomků s různým jmenovatelem;212;https://youtu.be/ADE0Qb9yfME
+exe;T11 Příklad;120;cs;17;1;18;1
+vid;T12 Násobení a dělení zlomků;211;https://youtu.be/HRfGVNhqwPQ
+exe;T12 Příklad;120;cs;19;1;20;1
+vid;T13 Převod celých čísel na zlomky;142;https://youtu.be/GALpz1RYum8;askForFeedback
+exe;T13 Příklad;240;cs;21;1
+
+vid;T14 Myšlenková mapa;320;https://youtu.be/jJFOQ5mgsLk
+
+vid;P1 Počítání se zlomky I;225;https://youtu.be/YFKaLaZcDSc
+exe;P1 Příklad;120;cs;1000;1
+
+vid;P1 Počítání se zlomky II;271;https://youtu.be/KCchYn82xI0
+exe;P1 Příklad;120;cs;1001;1
+
+vid;P2 Počítání se zlomky;369;https://youtu.be/T5g9NQ7mseg;askForFeedback
+exe;P2 Příklad;240;cs;1002;1;1003;1
+
+pretest;Kvíz pro video P3;240;2;cs;2;1004;1;1005;1
+vid;P3 Počítání se zlomky;501;https://youtu.be/R99KGkCrDFc
+exe;P3 Příklad;240;cs;1004;1;1005;1

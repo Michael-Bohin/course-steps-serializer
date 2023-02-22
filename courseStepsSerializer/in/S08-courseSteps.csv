@@ -1,0 +1,36 @@
+vid;T1 Obvod a obsah čtverce, obélníku a trojúhelníku;197;https://youtu.be/e50TxnkFMbE
+vid;T2 Obvod a obsah kruhu a lichoběžníku;139;https://youtu.be/kRIW6mbCXXU
+vid;T3 Povrch a objem 3D těles;150;https://youtu.be/N5a5-omZNYg
+vid;T4 Pythagorova věta;77;https://youtu.be/KhsAGbUs3o0
+vid;T5 NSD, nsn - opakování z S03;233;https://youtu.be/84-zZwxxA88
+
+
+
+txt;P1 Zadání příkladu;60;Než se vrhneš na další video, projdi si zadání příkladu, který si v něm vysvětlíme.$ \\[1em] $
+vid;P1 Příklad 'kolikrát' vs 'o kolik';203;https://youtu.be/Xpsj_4PJXoE
+exe;P1 Příklad;180;cs;29;1
+
+
+
+txt;P2 Zadání příkladu;60;Než se vrhneš na další video, projdi si zadání příkladu, který si v něm vysvětlíme.$ \\[1em] $
+vid;P2 Obsah a obvod čtverce;186;https://youtu.be/1yXEakWo0Kg
+exe;P2 Příklad;180;cs;30;1
+
+
+txt;P3 Zadání příkladu;60;Než se vrhneš na další video, projdi si zadání příkladu, který si v něm vysvětlíme.$ \\[1em] $V pravoúhlém lichoběžníku ABCD se základnou AB platí:$\\[1em]$|AB| = 15 cm,$\\$|CD| = 10 cm,$\\$|AD| = 12 cm,$\\$|∠BAD| = 90°$\\[1em]$
+vid;P3 Obsah a obvod lichoběžníku;276;https://youtu.be/0ekDu7iiEcw
+exe;P3 Příklad;180;cs;31;1
+
+
+txt;P4 Zadání příkladu;60;Než se vrhneš na další video, projdi si zadání příkladu, který si v něm vysvětlíme.$ \\[1em] $
+vid;P4 Tulipány a narcisy;478;https://youtu.be/RdzXla4Uxfo
+
+
+txt;P5 Zadání příkladu;60;Než se vrhneš na další video, projdi si zadání příkladu, který si v něm vysvětlíme.$ \\[1em] $Obdélník ABCD má stranu BC délky 8 cm. Na straně CD leží bod E.$\\$Obdélník je rozdělen úsečkami BE a BD na tři trojúhelníky.$\\$Obsahy trojúhelníků BCE a BED jsou stejné, a to 24 cm^2.$ \\[1em] $![Lichoběžník](https://svgshare.com/i/qSi.svg)$ \\[1em] $Vypočtěte$ \\[1em] $1. v cm$^2$ obsah lichoběžníku ABED$ \\[1em] $2. v cm obvod lichoběžníku ABED
+vid;P5 Obvod lichoběžníku ABED;437;https://youtu.be/iOPZfzUv2UI
+exe;P5 Příklad;180;cs;33;1
+
+txt;P6 Zadání příkladu;60;Než se vrhneš na další video, projdi si zadání příkladu, který si v něm vysvětlíme.$ \\[1em] $Za 4 dortíky zaplatíme v cukrárně celkem x korun, stejně jako za 5 koláčků.$ \\[1em] $1. Vyjádřete výrazem s proměnnou x, kolik korun zaplatíme v cukrárně za 1 dortík.$ \\[1em] $2.  Vyjádřete výrazem s proměnnou x, kolik korun zaplatíme v cukrárně za 4 koláče.$ \\[1em] $3. V cukrárně jsme za 5 dortíků a 4 koláče zaplatili celkem 246 korun. Vypočetěte, kolik korun jsme zaplatili za jeden dortík.  
+vid;P6 Cena dortíků a koláčků v cukrárně;428;https://youtu.be/ljAei-q3ni0
+exe;P6 Příklad;180;cs;34;1
+
